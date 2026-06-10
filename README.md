@@ -41,13 +41,21 @@ radar | Resultado: true
 java  | Resultado: false
 URL Release 2.0.2
 
-Pegar aquí la URL del Release generado en GitHub.
+https://github.com/Sebastian3332/MetodoBusquedaBinaria.git
 
 Cómo ejecutar
 Clonar el repositorio.
 Abrir el proyecto en el IDE.
 Ejecutar App.java.
 Verificar la salida por consola.
+
+![alt text](assets/captura-SignValidator.png)
+
+![alt text](assets/captura-StackSorter.png)
+
+![alt text](assets/captura-QueuePalindrome.png)
+
+![alt text](assets/captura-resultados.png)
 
 ## Conclusiones
 
